@@ -290,6 +290,10 @@ a:focus {
         padding: 100px 0;
     }
 
+    .portfolio-section {
+        padding: 100px 0;
+    }
+
     #map {
         height: 400px;
         margin-top: 250px;
@@ -307,17 +311,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #1cbeaf;
+    color: #1cbeaf;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #1cbeaf;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: #1cbeaf;
 }
 
 ul.banner-social-buttons {
