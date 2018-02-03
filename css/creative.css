@@ -90,3 +90,7 @@
 ::-webkit-scrollbar-thumb {
     background: #53dccf;
 }
+
+.service-box > i {
+    margin: 0 0 15px 0;
+}
